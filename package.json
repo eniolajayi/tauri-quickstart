@@ -1,0 +1,13 @@
+{
+  "name": "tauri-quickstart",
+  "version": "1.0.0",
+  "description": "a simple quickstart",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "author": "eniolajayi",
+  "license": "MIT",
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.2.3"
+  }
+}
